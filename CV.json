@@ -1,10 +1,4 @@
 {
-	"personal": {
-		"name": "Osama",
-		"fname": "Ateeq",
-		"quote": "Lorum Ipsum is your friend!",
-		"image": ""
-	},
 	"hobbies": [{
 			"id": "1",
 			"title": "Star Wars",
