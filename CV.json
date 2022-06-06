@@ -1,23 +1,61 @@
 {
-  "personal": {
-    "name": "Osama",
-    "fname": "Ateeq",
-    "quote": "Lorum Ipsum is your friend!",
-    "image": "",
-  },
-  "hobbies": [
-    { "id": "1", "title": "Star Wars", "since": "1977" },
-    { "id": "2", "title": "Back to the Future", "since": "1985" },
-    { "id": "3", "title": "The Matrix", "since": "1999" },
-    { "id": "4", "title": "Inception", "since": "2010" },
-    { "id": "5", "title": "Interstellar", "since": "2014" }
-  ],
-  "projects": [
-    { "id": "1", "title": "Star Wars", "releaseYear": "1977" },
-    { "id": "2", "title": "Back to the Future", "releaseYear": "1985" },
-    { "id": "3", "title": "The Matrix", "releaseYear": "1999" },
-    { "id": "4", "title": "Inception", "releaseYear": "2010" },
-    { "id": "5", "title": "Interstellar", "releaseYear": "2014" }
-  ],
-  
+	"personal": {
+		"name": "Osama",
+		"fname": "Ateeq",
+		"quote": "Lorum Ipsum is your friend!",
+		"image": ""
+	},
+	"hobbies": [{
+			"id": "1",
+			"title": "Star Wars",
+			"since": "1977"
+		},
+		{
+			"id": "2",
+			"title": "Back to the Future",
+			"since": "1985"
+		},
+		{
+			"id": "3",
+			"title": "The Matrix",
+			"since": "1999"
+		},
+		{
+			"id": "4",
+			"title": "Inception",
+			"since": "2010"
+		},
+		{
+			"id": "5",
+			"title": "Interstellar",
+			"since": "2014"
+		}
+	],
+	"projects": [{
+			"id": "1",
+			"title": "Star Wars",
+			"releaseYear": "1977"
+		},
+		{
+			"id": "2",
+			"title": "Back to the Future",
+			"releaseYear": "1985"
+		},
+		{
+			"id": "3",
+			"title": "The Matrix",
+			"releaseYear": "1999"
+		},
+		{
+			"id": "4",
+			"title": "Inception",
+			"releaseYear": "2010"
+		},
+		{
+			"id": "5",
+			"title": "Interstellar",
+			"releaseYear": "2014"
+		}
+	]
+
 }
