@@ -8,53 +8,72 @@
 	"hobbies": [{
 			"id": "1",
 			"title": "Game Development",
-			"since": "2"
+			"since": "3"
 		},
 		{
 			"id": "2",
-			"title": "Back to the Future",
-			"since": "1985"
+			"title": "Video Gaming",
+			"since": "10"
 		},
 		{
 			"id": "3",
-			"title": "The Matrix",
-			"since": "1999"
+			"title": "Programming",
+			"since": "3"
 		},
 		{
 			"id": "4",
-			"title": "Inception",
-			"since": "2010"
-		},
-		{
-			"id": "5",
-			"title": "Interstellar",
-			"since": "2014"
+			"title": "Reading",
+			"since": "5"
 		}
 	],
 	"projects": [{
 			"id": "1",
-			"title": "Star Wars",
-			"releaseYear": "1977"
+			"title": "Car Showroom Managment",
+			"technology": "Python",
+			"semester": "1",
+			"subject": "Introduction to Computer Technologies"
 		},
 		{
 			"id": "2",
-			"title": "Back to the Future",
-			"releaseYear": "1985"
+			"title": "Tetris 2.0",
+			"technology": "Java",
+			"semester": "2",
+			"subject": "Programming Fundamentals"
 		},
 		{
 			"id": "3",
-			"title": "The Matrix",
-			"releaseYear": "1999"
+			"title": "Football League Managment System",
+			"technology": "Java",
+			"semester": "3",
+			"subject": "Object Oriented Programming"
 		},
 		{
 			"id": "4",
-			"title": "Inception",
-			"releaseYear": "2010"
+			"title": "Real Estate Managment System",
+			"technology": "Java + SQL",
+			"semester": "4",
+			"subject": "Database"
 		},
 		{
 			"id": "5",
-			"title": "Interstellar",
-			"releaseYear": "2014"
+			"title": "CIBR Banking App",
+			"technology": "Xamarin",
+			"semester": "4",
+			"subject": "Softrware Engineering Concepts"
+		},
+		{
+			"id": "6",
+			"title": "Boxes and Footballs",
+			"technology": "Unity + ML",
+			"semester": "5",
+			"subject": "Artificial Intelligence"
+		},
+		{
+			"id": "7",
+			"title": "Error Tech Web App",
+			"technology": "Laravel",
+			"semester": "5",
+			"subject": "Web Technologies"
 		}
 	]
 
